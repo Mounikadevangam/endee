@@ -1,3 +1,5 @@
+https://youtu.be/hq7sj5IXVNc
+
 ## System Design
 
 1. Transcript input
